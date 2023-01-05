@@ -1,0 +1,228 @@
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Web2.dll.config
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Web2.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Web2.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\csc.exe
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\csc.exe.config
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\csc.rsp
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\csi.exe
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\csi.rsp
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\System.AppContext.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\vbc.exe
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\vbc.exe.config
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\vbc.rsp
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\VBCSCompiler.exe
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Antlr3.Runtime.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Newtonsoft.Json.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.Helpers.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.Mvc.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.Optimization.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.Razor.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.WebPages.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.WebPages.Razor.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\WebGrease.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.Helpers.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.Mvc.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.Optimization.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.Razor.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.WebPages.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Web.WebPages.Razor.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Newtonsoft.Json.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Antlr3.Runtime.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\obj\Debug\Web2.csproj.CoreCompileInputs.cache
+C:\Users\basic\Desktop\WEB2\Web2\Web2\obj\Debug\Web2.csproj.CopyComplete
+C:\Users\basic\Desktop\WEB2\Web2\Web2\obj\Debug\Web2.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\obj\Debug\Web2.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Postal.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\RazorEngine.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Postal.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\RazorEngine.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\RazorEngine.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\obj\Debug\Web2.csprojAssemblyReference.cache
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Owin.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.WsFederation.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Xml.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.WsFederation.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.WsFederation.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.WsFederation.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.Saml.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.Saml.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Xml.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Xml.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.WsFederation.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Net.Http.Formatting.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\System.Net.Http.Formatting.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\EntityFramework.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\EntityFramework.SqlServer.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\EntityFramework.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\EntityFramework.SqlServer.xml
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\DataLibrary.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Dapper.dll
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\DataLibrary.pdb
+C:\Users\basic\Desktop\WEB2\Web2\Web2\bin\Dapper.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Web2.dll.config
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Web2.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Web2.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\csc.exe
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\csc.exe.config
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\csc.rsp
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\csi.exe
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\csi.rsp
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\System.AppContext.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\vbc.exe
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\vbc.exe.config
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\vbc.rsp
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\VBCSCompiler.exe
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Antlr3.Runtime.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\DataLibrary.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\EntityFramework.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\EntityFramework.SqlServer.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.WsFederation.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Xml.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.WsFederation.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Newtonsoft.Json.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Owin.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Postal.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\RazorEngine.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Net.Http.Formatting.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.Helpers.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.Mvc.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.Optimization.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.Razor.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.WebPages.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.WebPages.Razor.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\WebGrease.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Dapper.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\DataLibrary.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\EntityFramework.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\EntityFramework.SqlServer.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.WsFederation.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Protocols.WsFederation.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.Saml.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Tokens.Saml.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Xml.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.IdentityModel.Xml.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.Owin.Security.WsFederation.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Postal.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\RazorEngine.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\RazorEngine.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Net.Http.Formatting.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.Helpers.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.Mvc.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.Optimization.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.Razor.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.WebPages.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\System.Web.WebPages.Razor.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Newtonsoft.Json.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Antlr3.Runtime.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\bin\Dapper.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\obj\Debug\Web2.csproj.AssemblyReference.cache
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\obj\Debug\Web2.csproj.CoreCompileInputs.cache
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\obj\Debug\Web2.csproj.CopyComplete
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\obj\Debug\Web2.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\Web2\obj\Debug\Web2.pdb

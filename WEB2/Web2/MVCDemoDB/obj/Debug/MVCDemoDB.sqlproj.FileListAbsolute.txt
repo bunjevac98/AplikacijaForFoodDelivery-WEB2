@@ -1,0 +1,10 @@
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\obj\Debug\MVCDemoDB.sqlprojAssemblyReference.cache
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\obj\Debug\Model.xml
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\obj\Debug\refactor.xml
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\obj\Debug\postdeploy.sql
+C:\Users\basic\Desktop\WEB2\Web2\MVCDemoDB\obj\Debug\predeploy.sql

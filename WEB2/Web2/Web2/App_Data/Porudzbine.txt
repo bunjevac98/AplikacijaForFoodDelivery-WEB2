@@ -1,0 +1,18 @@
+190;1,2;2,3;puskinova;pica bez sunke;50;2810;IZVRSENA;5/20/2022 10:12:17 PM
+7343;1,2;5,5;Solohova388;pica bez sunke burek bez sira;50;6650;IZVRSENA;5/21/2022 1:31:06 PM
+6770;1,2;3,3;dezo djordj;pica bez sunke;50;4010;IZVRSENA;5/21/2022 2:22:13 PM
+2615;4;5;puskinova;krilca bez cilija;50;6050;IZVRSENA;6/11/2022 4:56:29 PM
+8142;4;3;palicki put;krilca bez cilija i meda;50;3650;IZVRSENA;6/12/2022 10:54:28 AM
+323;3,4;5,1;Arhimadrita JOvana rajica;bez luka;50;3250;IZVRSENA;6/14/2022 3:00:19 PM
+1976;1;2;Solohova388;pica bez sunke;50;2450;IZVRSENA;6/14/2022 3:09:37 PM
+140;1,3;2,5;Arhimadrita JOvana rajica;krilca bez cilija;50;4450;IZVRSENA;6/14/2022 3:09:23 PM
+5978;8618;1;Arhimadrita JOvana rajica;bez luka;50;483;IZVRSENA;6/14/2022 3:17:18 PM
+9608;8618;1;Solohova388;krilca bez cilija;50;483;IZVRSENA;6/14/2022 3:23:10 PM
+7434;2;2;puskinova;pica bez sunke;50;290;IZVRSENA;6/14/2022 5:30:42 PM
+9314;2,8618;2,10;Solohova388;bez luka;50;4620;IZVRSENA;6/14/2022 6:03:27 PM
+4950;4;5;Solohova388;bez luka;50;6050;NEPOTVRDJENA;6/20/2022 10:05:58 AM
+6618;1;1;Solohova388;pica bez sunke burek bez sira;50;1250;NEPOTVRDJENA;1/1/0001 12:00:00 AM
+3331;3;2;dezo djordj;krilca bez cilija;50;850;IZVRSENA;6/20/2022 10:08:22 AM
+6442;8618;2;Solohova388;bez luka;50;916;IZVRSENA;6/20/2022 11:01:00 AM
+7552;2,4;10,5;Arhimadrita JOvana rajica;pica bez sunke burek bez sira;50;12650;IZVRSENA;6/20/2022 11:07:03 AM
+8342;1;5;Solohova388;pica bez sunke;50;6050;IZVRSENA;6/20/2022 2:27:29 PM

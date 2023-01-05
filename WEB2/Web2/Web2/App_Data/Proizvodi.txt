@@ -1,0 +1,5 @@
+﻿pizza;1;1200;paradajz sunka brasno sir
+burek;2;120;meso testo jogurt
+Gyros;3;400;meso luk pomfrit
+krilca;4;1200;chili med jack
+pljeskavica;8618;433;pavlaka urnebes majonez

@@ -1,0 +1,49 @@
+﻿@using Web2.Models
+@{
+    ViewBag.Title = "NovaPorudzbina";
+}
+
+<h2>NovaPorudzbina</h2>
+
+
+
+<form action="ZavrsenaPorudzbina" method="post">
+    <table class="table table-hover">
+        <thead>
+            <tr><th>Proizvoda</th></tr>
+            <tr>
+                <th>Ime proizvoda</th>
+                <th>Cena</th>
+                <th>Sastojci</th>
+                <th>Kolicina</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Kupovina kupovina in ViewBag.kupovina)
+            {
+                <tr>
+                    <td>@kupovina.ProizvodKupovine.ImeProizvoda</td>
+                    <td>@kupovina.ProizvodKupovine.Cena</td>
+                    <td>@kupovina.ProizvodKupovine.Sastojci</td>
+                    <td>@kupovina.KolicinaKupovine</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <label>Adresa</label>
+    <input type="text" name="Adresa" />
+    <div>
+        <label>Komentar</label>
+        <input type="text" size="100" name="Komentar" />
+    </div>
+    <div>
+        <label>Cena dostave:</label>
+        <label>50 dinara</label>
+    </div>
+    <div>
+        <label>Cena porudzbine</label>
+        <label>@ViewBag.UkupnaCena </label>
+    </div>
+    <div> <input type="submit" value="Poruci" /></div>
+</form>
+

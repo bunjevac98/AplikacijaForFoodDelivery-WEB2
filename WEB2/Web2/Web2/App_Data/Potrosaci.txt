@@ -1,0 +1,7 @@
+Nina;zxcvbn;Nina;Basic;puskinova;basic.aco@hotmail.com;2/8/2022 12:00:00 AM;POTROSAC;Lisa_Simpson.png;AKTIVAN;190,7343,2615,1976,9608,7434,4950,8342,
+Pavle;pajo;Pavleeee;Mandic;palicki put;basic.aco@hotmail.com;5/13/2022 12:00:00 AM;POTROSAC;Bart_Simpson.png;AKTIVAN;6770,8142,3331,
+MIlica;smickoo;MIlicaaa;Smitran;Arhimadrita JOvana rajica;basic.aco@hotmail.com;5/31/2022 12:00:00 AM;POTROSAC;Lisa_Simpson.png;AKTIVAN;9314,6618,
+Elena;asdf;Elena;Vuci;braca radic;basic.aco@hotmail.com;6/14/2022 12:00:00 AM;POTROSAC;Marge.png;AKTIVAN;6442,7552,
+Marko98;12345678;Marko;Markovic;Solohova388;basic.aco@hotmail.com;6/29/2022 12:00:00 AM;POTROSAC;Bart_Simpson.png;AKTIVAN;
+Nina;zxcvbn;Nina;Basic;Solohova388;basic.aco@hotmail.com;6/29/2022 12:00:00 AM;POTROSAC;Lisa_Simpson.png;AKTIVAN;
+MIlica;asdf;MIlica;Smitran;Arhimadrita JOvana rajica;basic.aco@hotmail.com;6/27/2022 12:00:00 AM;POTROSAC;Marge.png;AKTIVAN;

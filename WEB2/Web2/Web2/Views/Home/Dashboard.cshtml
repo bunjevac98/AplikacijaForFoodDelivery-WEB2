@@ -1,0 +1,99 @@
+﻿@using System.Threading;
+
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h2>DashBorad</h2>
+@ViewBag.GreskaAdministrator
+@ViewBag.UspesnaIzmena
+@ViewBag.Greska
+@ViewBag.UspesnaIzmena
+@ViewBag.DodatiProizvod
+@ViewBag.NemaDostupnihPorudzbina
+
+<style type="text/css">
+    .submit {
+        font-size: 25px;
+        font-weight: bold;
+        font-family: Arial;
+        color: #808080;
+    }
+</style>
+
+<style type="text/css">
+    .submit2 {
+        font-size: 25px;
+        font-weight: bold;
+        font-family: Arial;
+        color: #808080;
+    }
+</style>
+
+@if (Session["administrator"] != null)
+{
+    <form action="~/Administrator/PrikazProfila">
+        <input type="submit" value="PrikaziProfile" class="submit">
+    </form>
+
+    <form action="~/Administrator/DodajProizvod">
+        <input type="submit" value="DodajProizvod" class="submit">
+    </form>
+
+    <form action="~/Home/SvePorudzbine">
+        <input type="submit" value="SvePorudzbine" class="submit">
+    </form>
+
+}
+
+<form action="~/Home/PregledProfila">
+    <input type="submit" value="Moj profil" class="submit2">
+</form>
+
+@if (Session["potrosac"] != null)
+{
+    <form action="~/Potrosac/Porucivanje">
+        <input type="submit" value="Nova porudzbina" class="submit2">
+    </form>
+
+    <form action="~/Home/TrenutnaPorudzbina">
+        <input type="submit" value="Trenutna porudzbina" class="submit2">
+    </form>
+
+    <form action="~/Home/PrethodnePorudzbine">
+        <input type="submit" value="PrethodnePorudzbine" class="submit2">
+    </form>
+}
+
+
+<div class="row">
+    <div id="countdown"></div>
+
+    <p id="countdown-detail"></p>
+</div>
+
+
+@if (Session["dostavljac"] != null)
+{
+    <form action="~/Dostavljac/DostupnePorudzbine">
+        <input type="submit" value="DostupnePorudzbine" class="submit2">
+    </form>
+
+    <form action="~/Home/TrenutnaPorudzbina">
+        <input type="submit" value="Trenutna porudzbina" class="submit2">
+    </form>
+
+
+    <form action="~/Home/PrethodnePorudzbine">
+        <input type="submit" value="PrethodnePorudzbine" class="submit2">
+    </form>
+
+
+}
+
+
+
+
+
+
+

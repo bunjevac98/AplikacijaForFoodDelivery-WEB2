@@ -1,0 +1,38 @@
+﻿@model Web2.Models.Proizvod
+
+@{
+    ViewBag.Title = "KolicinaProizvoda";
+}
+
+<h2>KolicinaProizvoda</h2>
+
+
+<label>Kolicina</label>
+<form action="~/Potrosac/SacuvajKupovinu">
+<input type="text" name="KolicinaKupovine">
+<input type="submit" value="Sacuvaj narudzbu">
+</form>
+
+<table class="table table-hover">
+    <thead>
+        <tr><th>Proizvoda</th></tr>
+        <tr>
+            <th>Ime proizvoda</th>
+            <th>Cena</th>
+            <th>Sastojci</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@ViewBag.proizvod.ImeProizvoda</td>
+            <td>@ViewBag.proizvod.Cena</td>
+            <td>@ViewBag.proizvod.Sastojci</td>
+
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+

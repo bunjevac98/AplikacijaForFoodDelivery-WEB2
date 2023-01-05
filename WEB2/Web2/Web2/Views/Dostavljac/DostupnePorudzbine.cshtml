@@ -1,0 +1,79 @@
+﻿@using Web2.Models
+
+@{
+    ViewBag.Title = "DostupnePorudzbine";
+}
+
+<h2>DostupnePorudzbine</h2>
+
+<table class="table table-hover">
+    <thead>
+        <tr><th>Lista porudzbina</th></tr>
+        <tr>
+            <th>Id porudzbine</th>
+            <th>Proizvodi, cena, sastojci</th>
+            <th>Kolicina</th>
+            <th>Adresa</th>
+            <th>Komentar</th>
+            <th>Ukupna cena</th>
+            <th>Status porudzbine</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Porudzbina por in ViewBag.porudzbine)
+        {
+            <tr>
+                <td>@por.IdPorudzbine</td>
+
+                <td>
+                    @foreach (var item in por.proizvodi)
+                    {
+                        @item.ImeProizvoda<div></div>
+                        @item.Cena<div></div>
+                        @item.Sastojci<div></div>
+                    }
+                </td>
+                <td>
+                    @foreach (var item in por.Kolicina)
+                    {
+                        if (por.Kolicina.Count == 1)
+                        {
+                            <label>
+                                @item
+                            </label>
+                        }
+                        if (por.Kolicina.Count == 2)
+                        {
+                            <div>
+                                <label>
+                                    @item
+                                </label>
+                            </div>
+                        }
+                        if (por.Kolicina.Count == 3)
+                        {
+                            <div>
+                                <label>
+                                    @item
+                                </label>
+                            </div>
+                        }
+                    }
+                </td>
+                <td>@por.Adresa</td>
+                <td>@por.Komentar</td>
+                <td>@por.UkupnaCena</td>
+                <td>@por.StatusPorudzbine</td>
+                <td>
+                    <a href="/Dostavljac/PrihvatanjePorudzbine?idPorudzbine=@por.IdPorudzbine">Prihvati</a>
+                </td>
+            </tr>
+
+            
+
+    }
+
+
+        </tbody>
+    </table>
+

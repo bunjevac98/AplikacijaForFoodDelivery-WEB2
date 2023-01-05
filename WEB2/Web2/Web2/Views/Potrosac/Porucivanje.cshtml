@@ -1,0 +1,48 @@
+﻿@using Web2.Models
+@{
+    ViewBag.Title = "Porucivanje";
+}
+
+<h2>Porucivanje</h2>
+
+<table class="table table-hover" >
+    <thead>
+        <tr><th>Proizvoda</th></tr>
+        <tr>
+            <th>Ime proizvoda</th>
+            <th>Cena</th>
+            <th>Sastojci</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Proizvod proizvod in ViewBag.proizvodi)
+        {
+            <tr>
+                <td>@proizvod.ImeProizvoda</td>
+                <td>@proizvod.Cena</td>
+                <td>@proizvod.Sastojci</td>
+                <td>
+                    <a href="/Potrosac/PorucivanjeProizvoda?idProizvoda=@proizvod.IdProizvoda">Poruci</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<form action="~/Potrosac/PorucivanjeProizvoda" method="post">
+    <input type="submit" value="Zavrsi porucivanje"/>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+

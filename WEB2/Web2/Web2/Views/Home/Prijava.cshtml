@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewBag.Title = "Prijava";
+}
+
+<h2>Prijava</h2>
+
+
+
+<div>@ViewBag.odjava</div>
+<div>@ViewBag.Message</div>
+
+
+<form action="~/Autentifikacija/Prijavljivanje" method="post">
+    <table>
+        <tr>
+            <td> Ime:</td>
+            <td>
+                <input type="text" name="KorisnickoIme" />
+            </td>
+        </tr>
+
+        <tr>
+            <td>Lozinka:</td>
+            <td>
+                <input type="text" name="Lozinka" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                                    <input type="submit" value="Prijavi se" />
+            </td>
+        </tr>
+    </table>
+    <p>Don't have an account? <a href="/Autentifikacija/Registracija">Sign Up</a></p>
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

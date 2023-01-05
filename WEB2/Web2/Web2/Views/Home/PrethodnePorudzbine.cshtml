@@ -1,0 +1,97 @@
+﻿@using Web2.Models
+@{
+    ViewBag.Title = "PrethodnePorudzbine";
+}
+
+<h2>PrethodnePorudzbine</h2>
+
+
+<table class="table table-hover">
+    <thead>
+        <tr><th>Lista porudzbina</th></tr>
+        <tr>
+            <th>Id porudzbine</th>
+            <th>Proizvodi, cena, sastojci</th>
+            <th>Kolicina</th>
+            <th>Adresa</th>
+            <th>Komentar</th>
+            <th>Ukupna cena</th>
+            <th>Status porudzbine</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Porudzbina por in ViewBag.PrethodnePorudzbine)
+        {
+            <tr>
+                <td>@por.IdPorudzbine</td>
+
+                <td>
+                    @foreach (var item in por.proizvodi)
+                    {
+                    <div>
+                        @item.ImeProizvoda
+                    </div>
+                    <div>
+                        @item.Cena
+                    </div>
+                    <div>
+                        @item.Sastojci
+                    </div>
+                    }
+                </td>
+                <td>
+                    @foreach (var item in por.Kolicina)
+                    {
+                        if (por.Kolicina.Count == 1)
+                        {
+                            <label>
+                                @item
+                            </label>
+                        }
+                        if (por.Kolicina.Count == 2)
+                        {
+                            <div>
+                                <label>
+                                    @item
+                                </label>
+                            </div>
+                        }
+                        if (por.Kolicina.Count == 3)
+                        {
+                            <div>
+                                <label>
+                                    @item
+                                </label>
+                            </div>
+                        }
+                    }
+                </td>
+                <td>@por.Adresa</td>
+                <td>@por.Komentar</td>
+                <td>@por.UkupnaCena</td>
+                <td>@por.StatusPorudzbine</td>
+
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

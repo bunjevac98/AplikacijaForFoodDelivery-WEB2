@@ -1,0 +1,83 @@
+﻿@using Web2.Models
+
+@{
+    ViewBag.Title = "TrenutnaPorudzbina";
+}
+
+<h2>TrenutnaPorudzbina</h2>
+VREME ISPORUKE
+
+@ViewBag.DatumIsporuke
+
+
+<asp:timer id="Timer1" runat="server" interval="1000" ontick="Timer1_Tick" xmlns:asp="#unknown"></asp:timer>
+<asp:lable id="Lable1" runat="server" xmlns:asp="#unknown" />
+
+<table class="table table-hover">
+    <thead>
+        <tr><th>Lista porudzbina</th></tr>
+        <tr>
+            <th>Id porudzbine</th>
+            <th>Proizvodi, cena, sastojci</th>
+            <th>Kolicina</th>
+            <th>Adresa</th>
+            <th>Komentar</th>
+            <th>Ukupna cena</th>
+            <th>Status porudzbine</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>@ViewBag.porudzbina.IdPorudzbine</td>
+
+            <td>
+                @foreach (var item in ViewBag.porudzbina.proizvodi)
+                {
+                    @item.ImeProizvoda<div></div>
+                    @item.Cena<div></div>
+                    @item.Sastojci<div></div>
+                }
+            </td>
+            <td>
+                @foreach (var item in ViewBag.porudzbina.Kolicina)
+                {
+                    if (ViewBag.porudzbina.Kolicina.Count == 1)
+                    {
+                        <label>
+                            @item
+                        </label>
+                    }
+                    if (ViewBag.porudzbina.Kolicina.Count == 2)
+                    {
+                        <div>
+                            <label>
+                                @item
+                            </label>
+                        </div>
+                    }
+                    if (ViewBag.porudzbina.Kolicina.Count == 3)
+                    {
+                        <div>
+                            <label>
+                                @item
+                            </label>
+                        </div>
+                    }
+                }
+            </td>
+            <td>@ViewBag.porudzbina.Adresa</td>
+            <td>@ViewBag.porudzbina.Komentar</td>
+            <td>@ViewBag.porudzbina.UkupnaCena</td>
+            <td>@ViewBag.porudzbina.StatusPorudzbine</td>
+        </tr>
+    </tbody>
+
+
+
+
+
+
+</table>
+
+

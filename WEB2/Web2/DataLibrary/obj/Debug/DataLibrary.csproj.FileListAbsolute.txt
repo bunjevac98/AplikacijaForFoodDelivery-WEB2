@@ -1,0 +1,18 @@
+C:\Users\basic\Desktop\WEB2\Web2\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\basic\Desktop\WEB2\Web2\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\basic\Desktop\WEB2\Web2\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\basic\Desktop\WEB2\Web2\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\basic\Desktop\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\basic\Desktop\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\basic\Desktop\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\basic\Desktop\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\basic\Desktop\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\basic\Desktop\Web2 Projekat za GIT\WEB2\Web2\DataLibrary\obj\Debug\DataLibrary.pdb

@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "NewComment";
+}
+
+<h2>NewComment</h2>
+
+@model Web2.Models.NewCommentEmail
+
+To: @Model.To
+From: mailer@example.com
+Subject: New comment posted
+
+Hello,
+There is a new comment from @Model.UserName:
+
+@Model.Comment
+
+

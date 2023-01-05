@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[DostavljacPorudzbina] (Table)
+       [dbo].[PorudzbinaProizvod] (Table)
+       [dbo].[PotrosacPorudzbina] (Table)
+       [dbo].[FK_KorPor_Dostavljaci] (Foreign Key)
+       [dbo].[FK_KorPor_Porudzbine_Dostavljaca] (Foreign Key)
+       [dbo].[FK_KorPor_Potrosaci] (Foreign Key)
+       [dbo].[FK_KorPor_Porudzbine] (Foreign Key)
+
+** Supporting actions

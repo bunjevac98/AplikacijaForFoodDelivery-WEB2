@@ -1,0 +1,5 @@
+Fedor;kukica;Fedor;Tapavicki;sekspirova;basic.aco@hotmail.com;4/5/2022 12:00:00 AM;DOSTAVLJAC;Bart_Simpson.png;AKTIVAN;190,7343,2615,323,1976,140,5978,9608,7434,9314,7552,8342,
+Andrej;123qwe;Andrej;Ber;sekspirova;basic.aco@hotmail.com;2/9/2022 12:00:00 AM;DOSTAVLJAC;Homer.png;AKTIVAN;6770,
+Doki;dokinator;Dositej;Oblak;beogradski put;basic.aco@hotmail.com;5/13/2022 12:00:00 AM;DOSTAVLJAC;Bart_Simpson.png;AKTIVAN;8142,
+Divna;pufnjak;Divna;Duvnjak;lasla gala;basic.aco@hotmail.com;6/6/2022 12:00:00 AM;DOSTAVLJAC;Marge.png;AKTIVAN;3331,6442,
+Fedor;kukica;Fedor;Tapavicki;sekspirova;basic.aco@hotmail.com;3/2/2022 12:00:00 AM;DOSTAVLJAC;Bart_Simpson.png;NEAKTIVAN;

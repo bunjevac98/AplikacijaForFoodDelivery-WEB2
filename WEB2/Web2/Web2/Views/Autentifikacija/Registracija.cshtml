@@ -1,0 +1,75 @@
+﻿@model Web2.Models.Korisnik
+
+@{
+    ViewBag.Title = "Registracija";
+}
+
+<h2>Registracija</h2>
+
+
+<div class="validation">@ViewBag.GreskaRegistrovanja</div>
+
+
+
+<form action="Registracija" method="post">
+    <table>
+        <tr>
+            <td>Korisnicko ime</td>
+            <td><input type="text" name="KorisnickoIme" /></td>
+        </tr>
+        <tr>
+            <td>Lozinka</td>
+            <td><input type="text" name="Lozinka" /></td>
+        </tr>
+        <tr>
+            <td>Ponovite lozinku</td>
+            <td><input type="text" name="DrugaLozinka" /></td>
+        </tr>
+        <tr>
+            <td>E-mail</td>
+            <td><input type="text" name="Email" /></td>
+        </tr>
+        <tr>
+        <tr>
+            <td>Ime</td>
+            <td><input type="text" name="Ime" /></td>
+        </tr>
+        <tr>
+            <td>Prezime</td>
+            <td><input type="text" name="Prezime" /></td>
+        </tr>
+
+        <tr>
+            <td>Datum rodjenja</td>
+            <td><input type="date" name="DatumRodjenja" /></td>
+        </tr>
+        <tr>
+            <td>Adresa</td>
+            <td><input type="text" name="Adresa" /></td>
+        </tr>
+        <tr>
+            <td>Tip Korisnika</td>
+            <td>
+                <input list="TipKorisnika" name="TipKorisnika" />
+                <datalist id="TipKorisnika">
+                    <option value="POTROSAC"></option>
+                    <option value="DOSTAVLJAC"></option>
+                </datalist>
+            </td>
+        </tr>
+        <tr>
+            <td>Slika</td>
+            <td>
+                <input type="file" name="Slika" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="registracija" />
+            </td>
+        </tr>
+    </table>
+</form>
+<h2>Prijavi se pomocu druge aplikacije</h2>
+<input type="submit" value="Google" />
+

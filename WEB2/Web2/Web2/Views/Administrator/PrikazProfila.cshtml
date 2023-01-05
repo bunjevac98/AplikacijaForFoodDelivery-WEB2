@@ -1,0 +1,88 @@
+﻿@using Web2.Models
+@{
+    ViewBag.Title = "PrikazProfila";
+}
+
+<h2>PrikazProfila</h2>
+
+<table class="table table-hover">
+    <thead>
+        <tr><th>Lista dobavljaca</th></tr>
+        <tr>
+            <th>Korisnicko ime</th>
+            <th>Ime</th>
+            <th>Prezime</th>
+            <th>Adresa</th>
+            <th>E-mail</th>
+            <th>Datum rodjenja</th>
+            <th>Tip korisnika</th>
+            <th>Slika</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Korisnik kor in ViewBag.dostavljaci)
+        {
+        <tr>
+            <td>@kor.KorisnickoIme</td>
+            <td>@kor.Ime</td>
+            <td>@kor.Prezime</td>
+            <td>@kor.Adresa</td>
+            <td>@kor.Email</td>
+            <td>@kor.DatumRodjenja</td>
+            <td>@kor.TipKorisnika</td>
+            <td><img src="~/@kor.Slika" style="width:100px; height:100px" /></td>
+            <td>@kor.Status</td>
+            <td>
+                <a href="/Administrator/Odobri?korisnickoIme=@kor.KorisnickoIme">Odobri</a>
+                <a href="/Administrator/Odbij?korisnickoIme=@kor.KorisnickoIme">Odbij</a>
+            </td> 
+        </tr>
+        }
+    </tbody>
+</table>
+<table class="table table-hover">
+    <thead>
+        <tr><th>Lista potrosaca</th></tr>
+        <tr>
+            <th>Korisnicko ime</th>
+            <th>Ime</th>
+            <th>Prezime</th>
+            <th>Adresa</th>
+            <th>E-mail</th>
+            <th>Datum rodjenja</th>
+            <th>Tip korisnika</th>
+            <th>Slika</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Korisnik kor in ViewBag.potrosaci)
+        {
+            <tr>
+                <td>@kor.KorisnickoIme</td>
+                <td>@kor.Ime</td>
+                <td>@kor.Prezime</td>
+                <td>@kor.Adresa</td>
+                <td>@kor.Email</td>
+                <td>@kor.DatumRodjenja</td>
+                <td>@kor.TipKorisnika</td>
+                <td><img src="~/@kor.Slika" style="width:50px; height:50px" /></td>
+                <td>@kor.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
